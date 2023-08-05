@@ -8,7 +8,7 @@
 </p>
 
 ## 🎯 Objetivo:
-<div style="text-align: justify;"> 
+<div style="text-align: center;"> 
 O estágio supervisionado é uma etapa obrigatória em todos os cursos oferecidos pela Fatec Guarulhos, desempenhando um papel fundamental ao estabelecer uma conexão entre os estudantes do ensino superior e o ambiente profissional. Entretanto, a instituição não dispõe de um sistema informatizado para gerenciar as entregas dos discentes. Com o objetivo de automatizar o processo de orientação e validação dos estágios realizados, este projeto visa desenvolver um sistema informatizado para gerenciar as entregas dos discentes durante o estágio supervisionado na Fatec Guarulhos. A automatização desse processo tem como objetivo facilitar a orientação e validação dos estágios realizados pelos estudantes, tornando o fluxo mais eficiente e transparente.
 </div>
 
@@ -64,7 +64,9 @@ O sistema SGE oferece as seguintes funcionalidades:
 
 ## 📃Licença:
 
-Este projeto é licenciado sob a licença: ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos)
+Este projeto é licenciado sob a licença:
+
+![GPL-3.0 license](https://img.shields.io/github/license/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos?style=for-the-badge)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻 </h3> </div> 
 <p align="right"> <img src=""> </h3>
