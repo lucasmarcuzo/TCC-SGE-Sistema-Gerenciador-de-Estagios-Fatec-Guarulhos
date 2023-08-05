@@ -3,8 +3,8 @@
 ## 📽️ Apresentação:
 
 <p align="center">
-<a href="https://github.com/lucasmarcuzo/App-Caixa-Eletronico/">
-<img  width="304"  height="540"  src="Apresentation/caixaEletronico.gif">
+<a href="https://github.com/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos/">
+<img  width="720"  height="480"  src="Presentation/SGE.gif">
 </p>
 
 ## 🎯 Objetivo:
