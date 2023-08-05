@@ -1,7 +1,5 @@
 <h1>👨🏻‍🎓 TCC - SGE - Sistema Gerenciador de Estágios 💻</h1>
 
-O estágio supervisionado é uma etapa obrigatória em todos os cursos oferecidos pela Fatec Guarulhos, desempenhando um papel fundamental ao estabelecer uma conexão entre os estudantes do ensino superior e o ambiente profissional. Entretanto, a instituição não dispõe de um sistema informatizado para gerenciar as entregas dos discentes. Com o objetivo de automatizar o processo de orientação e validação dos estágios realizados, este projeto visa o desenvolvimento do **SGE - Sistema Gerenciador de Estágio**.
-
 ## 📽️ Apresentação:
 
 <p align="center">
@@ -9,7 +7,20 @@ O estágio supervisionado é uma etapa obrigatória em todos os cursos oferecido
 <img  width="304"  height="540"  src="Apresentation/caixaEletronico.gif">
 </p>
 
-## 
+## 🎯 Objetivo:
+<div style="text-align: justify;"> 
+O estágio supervisionado é uma etapa obrigatória em todos os cursos oferecidos pela Fatec Guarulhos, desempenhando um papel fundamental ao estabelecer uma conexão entre os estudantes do ensino superior e o ambiente profissional. Entretanto, a instituição não dispõe de um sistema informatizado para gerenciar as entregas dos discentes. Com o objetivo de automatizar o processo de orientação e validação dos estágios realizados, este projeto visa desenvolver um sistema informatizado para gerenciar as entregas dos discentes durante o estágio supervisionado na Fatec Guarulhos. A automatização desse processo tem como objetivo facilitar a orientação e validação dos estágios realizados pelos estudantes, tornando o fluxo mais eficiente e transparente.
+</div>
+
+## ⚙️ Funcionalidades:
+
+O sistema SGE oferece as seguintes funcionalidades:
+
+• Acompanhamento de todo o progresso do estágio.<br>
+• Gerenciamento de relatórios de estágio.<br>
+• Geração de relatórios preenchidos.<br>
+• Orientação e validação dos estágios realizados.<br>
+• Integração com o sistema acadêmico da Fatec Guarulhos (SIGA).<br>
 
 ## 🛠 Tecnologias utilizadas:
 
@@ -53,7 +64,7 @@ O estágio supervisionado é uma etapa obrigatória em todos os cursos oferecido
 
 ## 📃Licença:
 
-![MIT License](https://img.shields.io/github/license/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos)
+Este projeto é licenciado sob a licença: ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻 </h3> </div> 
 <p align="right"> <img src=""> </h3>
