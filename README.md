@@ -67,6 +67,6 @@ Este projeto é licenciado sob a licença:
 ![GPL-3.0 license](https://img.shields.io/github/license/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻 </h3> </div> 
-<p align="right"> <img src=""> </h3>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos"> </h3>
 
 
