@@ -1,13 +1,7 @@
 <h1>👨🏻‍🎓 TCC - SGE - Sistema Gerenciador de Estágios 💻</h1>
 
-## 📽️ Apresentação:
-
-<p align="center">
-<a href="https://github.com/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos/">
-<img  width="720"  height="480"  src="Presentation/SGE.gif">
-</p>
-
 ## 🎯 Objetivo:
+
 <div style="text-align: center;"> 
 O estágio supervisionado é uma etapa obrigatória em todos os cursos oferecidos pela Fatec Guarulhos, desempenhando um papel fundamental ao estabelecer uma conexão entre os estudantes do ensino superior e o ambiente profissional. Entretanto, a instituição não dispõe de um sistema informatizado para gerenciar as entregas dos discentes. Com o objetivo de automatizar o processo de orientação e validação dos estágios realizados, este projeto visa desenvolver um sistema informatizado para gerenciar as entregas dos discentes durante o estágio supervisionado na Fatec Guarulhos. A automatização desse processo tem como objetivo facilitar a orientação e validação dos estágios realizados pelos estudantes, tornando o fluxo mais eficiente e transparente.
 </div>
@@ -22,24 +16,29 @@ O sistema SGE oferece as seguintes funcionalidades:
 • Orientação e validação dos estágios realizados.<br>
 • Integração com o sistema acadêmico da Fatec Guarulhos (SIGA).<br>
 
-## 🛠 Tecnologias utilizadas:
-
-![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Jasper Reports](https://img.shields.io/badge/Jasper%20Reports-808080?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TS-NODE](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="center">
+<a href="https://github.com/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos/">
+<img  width="920"  height="480"  src="Presentation/SGE.gif">
+</p>
 
 ## 🧑🏻‍💻 Desenvolvedores:
 
 | Lucas Marcuzo | Danielle Oliveira |
 | :---: | :---: |
 | <img src="https://github.com/LucasMarcuzo.png?size=115" width=115><br> [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=whiteColor=white&link=https://github.com/LucasMarcuzo)](https://github.com/LucasMarcuzo) | <img src="https://avatars.githubusercontent.com/u/78177394?v=4?size=115" width=115><br>[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=whiteColor=white&link=https://github.com/DanielleOliveiraC)](https://github.com/DanielleOliveiraC) |
+
+## 🛠 Tecnologias utilizadas:
+
+![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?logo=apachemaven&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![JSON](https://img.shields.io/badge/json-5E5C5C?logo=json&logoColor=white)
+![Jasper Reports](https://img.shields.io/badge/Jasper%20Reports-808080)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![TS-NODE](https://img.shields.io/badge/ts--node-3178C6?logo=ts-node&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white)
 
 ## 📱 Contato:
 
@@ -61,12 +60,11 @@ O sistema SGE oferece as seguintes funcionalidades:
   <br>
 </div>
 
-
 ## 📃Licença:
 
 Este projeto é licenciado sob a licença:
 
-![GPL-3.0 license](https://img.shields.io/github/license/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos?style=for-the-badge)
+![GPL-3.0 license](https://img.shields.io/github/license/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻 </h3> </div> 
 <p align="right"> <img src=""> </h3>
