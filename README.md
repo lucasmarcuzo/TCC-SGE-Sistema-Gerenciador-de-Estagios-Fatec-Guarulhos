@@ -35,7 +35,7 @@ O sistema SGE oferece as seguintes funcionalidades:
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?logo=json&logoColor=white)
-![Jasper Reports](https://img.shields.io/badge/Jasper%20Reports-808080)
+![JasperReports](https://img.shields.io/badge/JasperReports-808080)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![TS-NODE](https://img.shields.io/badge/ts--node-3178C6?logo=ts-node&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white)
