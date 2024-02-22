@@ -1,5 +1,10 @@
 <h1>👨🏻‍🎓 TCC - SGE - Sistema Gerenciador de Estágios 💻</h1>
 
+<p align="center">
+<a href="https://github.com/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos/">
+<img  width="920"  height="480"  src="Presentation/SGE.gif">
+</p>
+
 ## 🎯 Objetivo:
 
 <div style="text-align: center;"> 
@@ -15,11 +20,6 @@ O sistema SGE oferece as seguintes funcionalidades:
 • Geração de relatórios preenchidos.<br>
 • Orientação e validação dos estágios realizados.<br>
 • Integração com o sistema acadêmico da Fatec Guarulhos (SIGA).<br>
-
-<p align="center">
-<a href="https://github.com/lucasmarcuzo/TCC-SGE-Sistema-Gerenciador-de-Estagios-Fatec-Guarulhos/">
-<img  width="920"  height="480"  src="Presentation/SGE.gif">
-</p>
 
 ## 🧑🏻‍💻 Desenvolvedores:
 
